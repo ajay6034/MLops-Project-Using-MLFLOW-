@@ -50,6 +50,12 @@ This project demonstrates a simple machine learning pipeline for classification 
 
 ![image](https://github.com/user-attachments/assets/01f98e73-4ce5-4ad3-af2b-3d7a0a82270b)
 
+- We can observe the Model Artifacts and Versions on Right Side ("Model Registry") having necessary files like "Pickle File", "yaml File", "requirements.txt File" i.e., combining like a package.
 
+ ![image](https://github.com/user-attachments/assets/54bab15a-b401-4247-887c-8f3584f6902d)
+ 
+**Comparision Of Versions Based On Model Metrics**
+
+![image](https://github.com/user-attachments/assets/61027a7b-cced-49b6-b1c9-0378a3894e84)
 
 
