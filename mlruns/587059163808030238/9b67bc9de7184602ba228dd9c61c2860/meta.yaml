@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/587059163808030238/9b67bc9de7184602ba228dd9c61c2860/artifacts
+end_time: 1733506284390
+entry_point_name: ''
+experiment_id: '587059163808030238'
+lifecycle_stage: active
+run_id: 9b67bc9de7184602ba228dd9c61c2860
+run_name: masked-mouse-846
+run_uuid: 9b67bc9de7184602ba228dd9c61c2860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733506273230
+status: 3
+tags: []
+user_id: ajays
