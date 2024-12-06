@@ -42,5 +42,14 @@ This project demonstrates a simple machine learning pipeline for classification 
 
 ![image](https://github.com/user-attachments/assets/c4d13e91-06b5-4f9b-b6c3-5488aef310ff)
 
+**Overview Of Model Trained Parameters & Metrics**
+
+***For 2 Versions***
+
+![image](https://github.com/user-attachments/assets/75436b81-ff80-4bb0-ba02-cbc38018d530)
+
+![image](https://github.com/user-attachments/assets/01f98e73-4ce5-4ad3-af2b-3d7a0a82270b)
+
+
 
 
