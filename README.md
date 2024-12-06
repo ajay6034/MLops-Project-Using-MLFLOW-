@@ -35,3 +35,12 @@ This project demonstrates a simple machine learning pipeline for classification 
      - Model artifacts and signatures
 
 ## Note: You can see the MLFLOW UI by running the Command "mlflow ui"
+
+## Screenshots Of MLFLOW UI:
+
+**Experiment Of ML Model Trained 2 Times**
+
+![image](https://github.com/user-attachments/assets/c4d13e91-06b5-4f9b-b6c3-5488aef310ff)
+
+
+
