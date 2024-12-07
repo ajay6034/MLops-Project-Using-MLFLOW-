@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ajays/OneDrive/Documents/MLFlow%20Starter/mlruns/479663810838073637/c585a6a723a94a5bbc5c2aac38938ecb/artifacts
+end_time: 1733541595227
+entry_point_name: ''
+experiment_id: '479663810838073637'
+lifecycle_stage: active
+run_id: c585a6a723a94a5bbc5c2aac38938ecb
+run_name: unique-hog-803
+run_uuid: c585a6a723a94a5bbc5c2aac38938ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733541518527
+status: 3
+tags: []
+user_id: ajays

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ajays/OneDrive/Documents/MLFlow%20Starter/mlruns/479663810838073637/4dce5d2f233c4974a9eb665586f76d49/artifacts
+end_time: 1733541581822
+entry_point_name: ''
+experiment_id: '479663810838073637'
+lifecycle_stage: active
+run_id: 4dce5d2f233c4974a9eb665586f76d49
+run_name: kindly-turtle-680
+run_uuid: 4dce5d2f233c4974a9eb665586f76d49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733541566010
+status: 3
+tags: []
+user_id: ajays

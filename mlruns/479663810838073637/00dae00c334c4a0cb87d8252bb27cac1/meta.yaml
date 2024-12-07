@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ajays/OneDrive/Documents/MLFlow%20Starter/mlruns/479663810838073637/00dae00c334c4a0cb87d8252bb27cac1/artifacts
+end_time: 1733541565981
+entry_point_name: ''
+experiment_id: '479663810838073637'
+lifecycle_stage: active
+run_id: 00dae00c334c4a0cb87d8252bb27cac1
+run_name: inquisitive-slug-38
+run_uuid: 00dae00c334c4a0cb87d8252bb27cac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733541550896
+status: 3
+tags: []
+user_id: ajays
